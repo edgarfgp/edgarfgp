@@ -6,4 +6,4 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=edgarfgp&show_icons=true&theme=synthwave&count_private=true)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edgarfgp)](https://github.com/edgarfgp/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edgarfgp&theme=synthwave)](https://github.com/edgarfgp/github-readme-stats)
